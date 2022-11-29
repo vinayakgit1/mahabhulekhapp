@@ -5,7 +5,7 @@
 main{
     display: flex;
     height: 100vh;
-    flex-wrap: wrap;
+    
 }
 .one{
     background-color: rgba(255, 166, 0, 0.89);
