@@ -1,0 +1,116 @@
+@font-face {
+    font-family:heading;
+    src: url(font/KRDEV020.TTF);
+}
+main{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+.one{
+    background-color: rgba(255, 166, 0, 0.89);
+    height: 100%;
+    width: 15%;
+}
+.two{
+    background-color: rgba(255, 166, 0, 0.89);
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color:rgba(255, 166, 0, 0.89);
+    height: 20%;
+    background-image: url(image/firstimage.png);
+    background-size: 750px;
+}
+section{
+    background-color:rgba(255, 166, 0, 0.89);
+    height: 70%;
+    display: flex;
+    
+}
+.firstbox{
+    background-color:rgba(255, 166, 0, 0.89);
+    height: 100%;
+    width: 60%;
+    background-image: url(image/maharashtraimae.jpg);
+    background-size: 450px;
+    margin: 2px;
+    border-radius: 5px;
+}
+.secondbox{
+    background-color:rgba(255, 166, 0, 0.89);
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border-radius: 5px;
+}
+.mone{
+    background-color:rgba(255, 166, 0, 0.89);
+    height: 40%;
+    display: flex;
+    margin: 2px;
+    border-radius: 5px;
+}
+.left{
+    background-color: rgba(255, 166, 0, 0.89);
+    width: 50%;
+    background-image: url(image/download.jpeg);
+    background-size:145px ;
+    margin: 2px;
+    border-radius: 5px;
+
+}
+.right{
+    background-color: rgba(255, 166, 0, 0.89);
+    width: 50%;
+    background-image: url(image/aapli\ chavadi.png);
+    background-size: 140px;
+    margin: 2px;
+    border-radius: 5px;
+}
+.mtwo{
+    background-color:burlywood;
+    height: 20%;
+    margin: 2px;
+    border-radius: 5px;
+}
+h3{
+    color: black;
+    font-family:heading;
+    font-size: 10px;
+}
+.mthree{
+    background-color:burlywood;
+    height: 30%;
+    margin: 2px;
+    border-radius: 5px;
+    
+}
+li{
+    color: black;
+    font-family: heading;
+    font-size: 10px;
+}
+.mfour{
+    background-color:chartreuse;
+    height: 10%;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color:burlywood;
+    height: 10%;
+    margin: 2px;
+    border-radius: 5px;
+}
+.three{
+    background-color: rgba(255, 166, 0, 0.89);
+    height: 100%;
+    width: 15%;
+}
